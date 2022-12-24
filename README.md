@@ -1,8 +1,8 @@
 # Finance Manager
 
-This is a Vanilla JavaScript project created to keep track of your income and expenses.
+This is a Vanilla JavaScript front-end app.
 
-## Database
+## Description
 
-It was used the local storage for the database.
+This application can be used to keep track of your income and expenses. It was used the local storage for the database.
 
