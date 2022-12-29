@@ -214,7 +214,7 @@ const App = {
     },
 
     reload(){
-        DOM.clearTransactions() // seria para não repetir as propriedades do Transaction.all, mas como as removemos, não é mais necessário
+        DOM.clearTransactions()
         App.init()
     },
 }    
