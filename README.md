@@ -8,5 +8,7 @@ This application can be used to keep track of your income and expenses. It was u
 
 ## Demo
 
+To see the demo in higher quality click on the gif below.
+
 ![Finance Manager Demo](demo/animacao.gif)
 
