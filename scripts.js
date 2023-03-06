@@ -179,10 +179,6 @@ const Form = {
         }
     },
 
-    formatData(){
-
-    },
-
     clearFields(){
         Form.description.value = ""
         Form.amount.value = ""
